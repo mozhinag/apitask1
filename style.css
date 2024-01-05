@@ -1,0 +1,22 @@
+.container-fluid{
+    background-color: rgb(228, 238, 232);
+}
+
+
+h1 {
+    border: 2px solid;
+    text-align: center;
+    background-color: rgb(66, 215, 232);
+   
+}
+table {
+    width: 50%;
+    margin: auto;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
